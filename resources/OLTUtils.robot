@@ -15,7 +15,8 @@ Telnet Login
     Log  ${USERNAME_PROMPT}
     Log  ${PASSWORD_PROMPT}
     Telnet.Login  ${USERNAME}  ${PASSWORD}  ${USERNAME_PROMPT}  ${PASSWORD_PROMPT}  5 sec
-    # Telnet.Set Prompt  ${USR_PROMPT}
+    Telnet.Set Prompt  ${USR_PROMPT}
+    Sleep  30s
 
 Telnet Logout
     Telnet.Close All Connections
