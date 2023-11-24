@@ -6,8 +6,8 @@ Library    Telnet
 Resource    ../resources/OLTUtils.robot
 # Library     ../resources/cmdLines.py
 
-# Test Setup       Telnet Login
-# Test Teardown    Logout with Sleep
+Test Setup       Telnet Login
+Test Teardown    Logout with Sleep
 
 *** Variables ***
 ${IP}    10.100.34.66

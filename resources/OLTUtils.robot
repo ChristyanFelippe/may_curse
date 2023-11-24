@@ -1,7 +1,7 @@
 *** Settings ***
 Variables           devices.py
 Variables           variables.py  ${HOSTNAME}
-Resource            ubuntu/Utils.robot
+Resource            Utils.robot
 
 
 *** Keywords ***
