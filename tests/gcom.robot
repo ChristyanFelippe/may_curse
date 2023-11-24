@@ -21,10 +21,10 @@ Test Setup       Telnet Login
 
 Show User Commands
     FOR               ${command}               IN       @{USR_CMDs}
-        Log  command
+    Log      command
+    ${show_usr} =     Catenate                 show     ${command}
+    ${file_name} =    build_unique_commands    ${IP}    ${HOSTNAME}    ${EXC_PROMPT}    ${show_usr}    show_usr_cmds.txt
     END
-#     ${show_usr} =     Catenate                 show     ${command}
-#     ${file_name} =    build_unique_commands    ${IP}    ${HOSTNAME}    ${EXC_PROMPT}    ${show_usr}    show_usr_cmds.txt
 #     BuiltIn.Sleep     3
 #     END
 #     Compare Files     ${file_name}
