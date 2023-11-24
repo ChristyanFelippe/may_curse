@@ -6,6 +6,7 @@ Resource            Utils.robot
 
 *** Keywords ***
 Telnet Login
+    Log     ${NEW_IF}
     Run Keyword If  '${NEW_IF}' == 'true'
     ...  Configure IP  ${TA_IP}  ${TA_IF}
     Telnet.Open Connection  ${IP}  port=${PORT}  timeout=3
