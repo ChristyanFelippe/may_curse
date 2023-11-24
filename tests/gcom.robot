@@ -19,7 +19,7 @@ Test Setup       Telnet Login
 
 *** Test Cases ***
 
-# Show User Commands
+Show User Commands
     FOR               ${command}               IN       @{USR_CMDs}
         Log  command
 #     ${show_usr} =     Catenate                 show     ${command}
