@@ -10,13 +10,13 @@ Test Setup       Telnet Login
 Test Teardown    Logout with Sleep
 
 *** Variables ***
-${IP}    10.100.34.66
-${HOSTNAME}    G8
+${IP}    10.100.25.43
 ${NEW_IF}    False
+${PROMPT_OLT}   G16
+${OLT_IP}     10.100.25.43
 
 *** Test Cases ***
 
 Exemplo de Teste
     Log    ${IP}
-    Log    ${HOSTNAME}
     Log    ${NEW_IF}
