@@ -13,8 +13,8 @@ Telnet Login
     Log  ${IP}  
     Log  ${PORT}  
     Log  ${USERNAME_PROMPT}
-    Log  ${USERNAME_PROMPT}
-    # Telnet.Login  ${USERNAME}  ${PASSWORD}  ${USERNAME_PROMPT}  ${PASSWORD_PROMPT}  5 sec
+    Log  ${PASSWORD_PROMPT}
+    Telnet.Login  ${USERNAME}  ${PASSWORD}  ${USERNAME_PROMPT}  ${PASSWORD_PROMPT}  5 sec
     # Telnet.Set Prompt  ${USR_PROMPT}
 
 Telnet Logout
