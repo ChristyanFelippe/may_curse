@@ -14,6 +14,8 @@ ${IP}    10.100.25.43
 ${NEW_IF}    False
 ${PROMPT_OLT}   G16
 ${OLT_IP}     10.100.25.43
+${HOSTNAME}  G16
+
 
 *** Test Cases ***
 
