@@ -2,9 +2,9 @@
 Library    String
 Library    Telnet
 
-# Resource    ../resources/ubuntu/Utils.robot
+Resource    ../resources/Utils.robot
 Resource    ../resources/OLTUtils.robot
-# Library     ../resources/cmdLines.py
+Library     ../resources/cmdLines.py
 
 Test Setup       Telnet Login
 Test Teardown    Logout with Sleep
