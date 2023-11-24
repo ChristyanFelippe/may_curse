@@ -1,6 +1,6 @@
 *** Settings ***
 Variables           devices.py
-Variables           variables.py
+Variables           variables.py  ${HOSTNAME}
 Resource            Utils.robot
 
 
