@@ -1,7 +1,7 @@
 *** Test Cases ***
-# Teste do novo formato do FOR
+Teste do novo formato do FOR
     # Velho formato do FOR de listas
-    # Novo formato do FOR de listas
+    Novo formato do FOR de listas
 
 Teste de FOR aninhado
     Cria cadastro de produtos (FOR aninhado)
