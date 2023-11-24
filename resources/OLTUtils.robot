@@ -10,8 +10,10 @@ Telnet Login
     Run Keyword If  '${NEW_IF}' == 'true'
     ...  Configure IP  ${TA_IP}  ${TA_IF}
     Telnet.Open Connection  ${IP}  port=${PORT}  timeout=3
-    Telnet.Login  ${USERNAME}  ${PASSWORD}  ${USERNAME_PROMPT}  ${PASSWORD_PROMPT}  5 sec
-    Telnet.Set Prompt  ${USR_PROMPT}
+    Log  ${IP}  port=${PORT}
+    Log  ${USERNAME_PROMPT}
+    # Telnet.Login  ${USERNAME}  ${PASSWORD}  ${USERNAME_PROMPT}  ${PASSWORD_PROMPT}  5 sec
+    # Telnet.Set Prompt  ${USR_PROMPT}
 
 Telnet Logout
     Telnet.Close All Connections
