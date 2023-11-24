@@ -1,5 +1,5 @@
 def get_variables(HOSTNAME):
-    if HOSTNAME == "OLT4840E":
+    if HOSTNAME = "OLT4840E":
         USERNAME_PROMPT = "Username(1-32 chars):"
         PASSWORD_PROMPT = "Password(1-16 chars):"
     else:
