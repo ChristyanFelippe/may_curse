@@ -21,7 +21,8 @@ Test Teardown    Logout with Sleep
 
 Show User Commands
     FOR               ${command}               IN       @{USR_CMDs}
-    Log      command
+    Log to console      command
+    log                 command
     ${show_usr} =     Catenate                 show     ${command}
     ${file_name} =    build_unique_commands    ${IP}    ${HOSTNAME}    ${EXC_PROMPT}    ${show_usr}    show_usr_cmds.txt
     BuiltIn.Sleep     3
