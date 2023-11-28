@@ -20,7 +20,7 @@ Test Teardown    Logout with Sleep
 *** Test Cases ***
 
 Show User Commands
-    @{USR_CMDs}
+    Log to console       @{USR_CMDs}
     FOR               ${command}               IN       @{USR_CMDs}
     Log to console      ${command}
     log                 ${command}
