@@ -1,0 +1,376 @@
+show version 
+show system 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 perlines 0 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc srm ssh static_route stp syslog tacacs+ udld urpf vlan vrrp 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc srm ssh static_route stp syslog tacacs+ udld urpf vlan 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc srm ssh static_route stp syslog tacacs+ udld urpf 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc srm ssh static_route stp syslog tacacs+ udld 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc srm ssh static_route stp syslog tacacs+ 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc srm ssh static_route stp syslog 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc srm ssh static_route stp 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc srm ssh static_route 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc srm ssh 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc srm 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp sntpc 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common snmp 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon route_common 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip rmon 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd rip 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius radvd 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl radius 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus qacl 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation pppoeplus 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch port_isolation 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 pim pon-switch 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf ospfv3 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam ospf 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp oam 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp ntp 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp ndp 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink mstp 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping mlink 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror mld_snooping 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm mirror 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp mailalarm 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation lldp 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool link_aggregation 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping ippool 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp igmp_snooping 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if igmp 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp if 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink garp 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp flink 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps errp 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm erps 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping dot1x efm 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 dhcpv6snooping 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping dhcpv6 
+show running-config anti-attack arp bfd cfm device dhcp dhcpsnooping 
+show running-config anti-attack arp bfd cfm device dhcp 
+show running-config anti-attack arp bfd cfm device 
+show running-config anti-attack arp bfd cfm 
+show running-config anti-attack arp bfd 
+show running-config anti-attack arp 
+show running-config anti-attack 
+show running-config deploy-profile-alarm 
+show running-config deploy-profile-dba 
+show running-config deploy-profile-ds-traffic 
+show running-config deploy-profile-line 
+show running-config deploy-profile-multicast 
+show running-config deploy-profile-rule 
+show running-config deploy-profile-unique 
+show running-config deploy-profile-us-traffic 
+show running-config deploy-profile-vlan 
+show running-config deploy-profile-wifi 
+show running-config gpon-device 
+show running-config interface ethernet 1/1 
+show running-config interface ethernet 
+show running-config interface gpon 0/1 
+show running-config interface gpon 
+show running-config interface loopback-interface 0 
+show running-config interface loopback-interface 
+show running-config interface supervlan-interface 1 
+show running-config interface supervlan-interface 
+show running-config interface vlan-interface 1 
+show running-config interface vlan-interface 
+show running-config psg 
+show running-config 
+show cpu-statistics channel-group 0 channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 channel-group 0 channel-group 0 
+show cpu-statistics channel-group 0 channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 channel-group 0 ethernet 1/1 
+show cpu-statistics channel-group 0 channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 channel-group 0 gpon 0/1 
+show cpu-statistics channel-group 0 channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 channel-group 0 to channel-group 0 channel-group 0 
+show cpu-statistics channel-group 0 channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 channel-group 0 to channel-group 0 ethernet 1/1 
+show cpu-statistics channel-group 0 channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 channel-group 0 to channel-group 0 gpon 0/1 
+show cpu-statistics channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 channel-group 0 
+show cpu-statistics channel-group 0 ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 ethernet 1/1 channel-group 0 
+show cpu-statistics channel-group 0 ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 ethernet 1/1 ethernet 1/1 
+show cpu-statistics channel-group 0 ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 ethernet 1/1 gpon 0/1 
+show cpu-statistics channel-group 0 ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 ethernet 1/1 to ethernet 1/1 channel-group 0 
+show cpu-statistics channel-group 0 ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 ethernet 1/1 to ethernet 1/1 ethernet 1/1 
+show cpu-statistics channel-group 0 ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 ethernet 1/1 to ethernet 1/1 gpon 0/1 
+show cpu-statistics channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 ethernet 1/1 
+show cpu-statistics channel-group 0 gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 gpon 0/1 channel-group 0 
+show cpu-statistics channel-group 0 gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 gpon 0/1 ethernet 1/1 
+show cpu-statistics channel-group 0 gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 gpon 0/1 gpon 0/1 
+show cpu-statistics channel-group 0 gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 gpon 0/1 to gpon 0/1 channel-group 0 
+show cpu-statistics channel-group 0 gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 gpon 0/1 to gpon 0/1 ethernet 1/1 
+show cpu-statistics channel-group 0 gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 gpon 0/1 to gpon 0/1 gpon 0/1 
+show cpu-statistics channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 channel-group 0 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 ethernet 1/1 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 gpon 0/1 
+show cpu-statistics channel-group 0 to channel-group 0 
+show cpu-statistics channel-group 0 
+show cpu-statistics ethernet 1/1 channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 channel-group 0 channel-group 0 
+show cpu-statistics ethernet 1/1 channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 channel-group 0 ethernet 1/1 
+show cpu-statistics ethernet 1/1 channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 channel-group 0 gpon 0/1 
+show cpu-statistics ethernet 1/1 channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 channel-group 0 to channel-group 0 channel-group 0 
+show cpu-statistics ethernet 1/1 channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 channel-group 0 to channel-group 0 ethernet 1/1 
+show cpu-statistics ethernet 1/1 channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 channel-group 0 to channel-group 0 gpon 0/1 
+show cpu-statistics ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 channel-group 0 
+show cpu-statistics ethernet 1/1 ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 ethernet 1/1 channel-group 0 
+show cpu-statistics ethernet 1/1 ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 ethernet 1/1 ethernet 1/1 
+show cpu-statistics ethernet 1/1 ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 ethernet 1/1 gpon 0/1 
+show cpu-statistics ethernet 1/1 ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 ethernet 1/1 to ethernet 1/1 channel-group 0 
+show cpu-statistics ethernet 1/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 
+show cpu-statistics ethernet 1/1 ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 ethernet 1/1 to ethernet 1/1 gpon 0/1 
+show cpu-statistics ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 ethernet 1/1 
+show cpu-statistics ethernet 1/1 gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 gpon 0/1 channel-group 0 
+show cpu-statistics ethernet 1/1 gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 gpon 0/1 ethernet 1/1 
+show cpu-statistics ethernet 1/1 gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 gpon 0/1 gpon 0/1 
+show cpu-statistics ethernet 1/1 gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 gpon 0/1 to gpon 0/1 channel-group 0 
+show cpu-statistics ethernet 1/1 gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 gpon 0/1 to gpon 0/1 ethernet 1/1 
+show cpu-statistics ethernet 1/1 gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 gpon 0/1 to gpon 0/1 gpon 0/1 
+show cpu-statistics ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 channel-group 0 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 ethernet 1/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 gpon 0/1 
+show cpu-statistics ethernet 1/1 to ethernet 1/1 
+show cpu-statistics ethernet 1/1 
+show cpu-statistics gpon 0/1 channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 channel-group 0 channel-group 0 
+show cpu-statistics gpon 0/1 channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 channel-group 0 ethernet 1/1 
+show cpu-statistics gpon 0/1 channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 channel-group 0 gpon 0/1 
+show cpu-statistics gpon 0/1 channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 channel-group 0 to channel-group 0 channel-group 0 
+show cpu-statistics gpon 0/1 channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 channel-group 0 to channel-group 0 ethernet 1/1 
+show cpu-statistics gpon 0/1 channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 channel-group 0 to channel-group 0 gpon 0/1 
+show cpu-statistics gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 channel-group 0 
+show cpu-statistics gpon 0/1 ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 ethernet 1/1 channel-group 0 
+show cpu-statistics gpon 0/1 ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 ethernet 1/1 ethernet 1/1 
+show cpu-statistics gpon 0/1 ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 ethernet 1/1 gpon 0/1 
+show cpu-statistics gpon 0/1 ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 ethernet 1/1 to ethernet 1/1 channel-group 0 
+show cpu-statistics gpon 0/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 
+show cpu-statistics gpon 0/1 ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 ethernet 1/1 to ethernet 1/1 gpon 0/1 
+show cpu-statistics gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 ethernet 1/1 
+show cpu-statistics gpon 0/1 gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 gpon 0/1 channel-group 0 
+show cpu-statistics gpon 0/1 gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 gpon 0/1 ethernet 1/1 
+show cpu-statistics gpon 0/1 gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 gpon 0/1 gpon 0/1 
+show cpu-statistics gpon 0/1 gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 gpon 0/1 to gpon 0/1 channel-group 0 
+show cpu-statistics gpon 0/1 gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 gpon 0/1 to gpon 0/1 ethernet 1/1 
+show cpu-statistics gpon 0/1 gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 gpon 0/1 to gpon 0/1 gpon 0/1 
+show cpu-statistics gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 channel-group 0 to channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 channel-group 0 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 ethernet 1/1 to ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 ethernet 1/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 gpon 0/1 
+show cpu-statistics gpon 0/1 to gpon 0/1 
+show cpu-statistics gpon 0/1 
+show cpu-statistics 
+show cpu-utilization 
+show cpu-classification interface ethernet 1/1 
+show cpu-classification interface gpon 0/1 
+show cpu-classification 
+show memory 
+show utilization channel-group 
+show utilization interface 
+show statistics channel-group 0 
+show statistics channel-group 
+show statistics dynamic channel-group 
+show statistics dynamic interface 
+show statistics interface ethernet 1/1 ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show statistics interface ethernet 1/1 ethernet 1/1 ethernet 1/1 
+show statistics interface ethernet 1/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show statistics interface ethernet 1/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 
+show statistics interface ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show statistics interface ethernet 1/1 ethernet 1/1 
+show statistics interface ethernet 1/1 to ethernet 1/1 ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show statistics interface ethernet 1/1 to ethernet 1/1 ethernet 1/1 ethernet 1/1 
+show statistics interface ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show statistics interface ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 ethernet 1/1 
+show statistics interface ethernet 1/1 to ethernet 1/1 ethernet 1/1 to ethernet 1/1 
+show statistics interface ethernet 1/1 to ethernet 1/1 ethernet 1/1 
+show statistics interface ethernet 1/1 to ethernet 1/1 
+show statistics interface ethernet 1/1 
+show statistics interface gpon 0/1 gpon 0/1 gpon 0/1 to gpon 0/1 
+show statistics interface gpon 0/1 gpon 0/1 gpon 0/1 
+show statistics interface gpon 0/1 gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 
+show statistics interface gpon 0/1 gpon 0/1 to gpon 0/1 gpon 0/1 
+show statistics interface gpon 0/1 gpon 0/1 to gpon 0/1 
+show statistics interface gpon 0/1 gpon 0/1 
+show statistics interface gpon 0/1 to gpon 0/1 gpon 0/1 gpon 0/1 to gpon 0/1 
+show statistics interface gpon 0/1 to gpon 0/1 gpon 0/1 gpon 0/1 
+show statistics interface gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 
+show statistics interface gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 gpon 0/1 
+show statistics interface gpon 0/1 to gpon 0/1 gpon 0/1 to gpon 0/1 
+show statistics interface gpon 0/1 to gpon 0/1 gpon 0/1 
+show statistics interface gpon 0/1 to gpon 0/1 
+show statistics interface gpon 0/1 
+show statistics interface 

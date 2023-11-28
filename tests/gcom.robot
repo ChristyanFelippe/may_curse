@@ -33,7 +33,7 @@ Show User Commands
 Compare Files
     [Arguments]                   ${file_name}
     ${file1} =                    Get File        ${file_name}
-    ${file_name2} =               Catenate        SEPARATOR=       resources/cmds/gpon/    ${file_name}
+    ${file_name2} =               Catenate        SEPARATOR=       cmds/gpon/    ${file_name}
     ${file2} =                    Get File        ${file_name2}
     Should Be Equal As Strings    ${file1}        ${file2}
 
