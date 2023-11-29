@@ -38,7 +38,7 @@ DEVICE_TYPES = [
 
 # USR_CMDs = ["version", "system", "running-config", "cpu-statistics", "cpu-utilization", "cpu-classification", "memory",
 #             "utilization", "statistics"]
-USR_CMDs = ["version", "system"]
+USR_CMDs = ["version", "system", "memory"]
 
 CPEs = [{
     "index": "0/1/1",
