@@ -1,2 +1,3 @@
 show version 
 show system 
+show memory 
