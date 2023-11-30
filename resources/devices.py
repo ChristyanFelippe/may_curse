@@ -7,6 +7,7 @@ CFG_CMDs_FILE = "cfg_cmds.txt"
 PORT = "23"
 USERNAME = "admin"
 PASSWORD = "admin"
+CONFIGURE_TERMINAL = "configure terminal"
 
 CFG_CMDs_FILE_PATH = TA_JENKINS_QAP_DIR + CFG_CMDs_FILE
 NEW_CFG_CMDs_FILE_PATH = TA_JENKINS_QAP_DIR + "new_" + CFG_CMDs_FILE
@@ -77,23 +78,23 @@ CPEs = [{
 modes_and_cmds = {
     ">": [],
     "#": ["enable"],
-    "(config)#": ["enable", "configure terminal"],
-    "(deploy-profile-rule)#": ["enable", "configure terminal", "deploy profile rule"],
-    "(deploy-profile-line)#": ["enable", "configure terminal", "deploy profile line"],
-    "(deploy-profile-dba)#": ["enable", "configure terminal", "deploy profile dba"],
-    "(deploy-profile-vlan)#": ["enable", "configure terminal", "deploy profile vlan"],
-    "(deploy-profile-unique)#": ["enable", "configure terminal", "deploy profile unique"],
-    "(deploy-profile-alarm)#": ["enable", "configure terminal", "deploy profile alarm"],
-    "(deploy-profile-rule-0/1/1)#": ["enable", "configure terminal", "deploy profile rule", "aim 0/1/1"],
-    "(deploy-profile-line-1)#": ["enable", "configure terminal", "deploy profile line", "aim 1"],
-    "(deploy-profile-dba-1)#": ["enable", "configure terminal", "deploy profile dba", "aim 1"],
-    "(deploy-profile-vlan-1)#": ["enable", "configure terminal", "deploy profile vlan", "aim 1"],
-    "(deploy-profile-unique-0/1/1)#": ["enable", "configure terminal", "deploy profile unique", "aim 0/1/1"],
-    "(deploy-profile-alarm-1)#": ["enable", "configure terminal", "deploy profile alarm", "aim 1"],
-    "(config-if-gpon-0/1)#": ["enable", "configure terminal", "interface gpon 0/1"],
-    "(config-if-ethernet-1/1)#": ["enable", "configure terminal", "interface ethernet 1/1"],
-    "(config-if-pon-0/1)#": ["enable", "configure terminal", "interface pon 0/1"],
-    "(config-if-vlanInterface-1)#": ["enable", "configure terminal", "interface vlan-interface 1"],
-    "(deploy-profile-wifi-1)#": ["enable", "configure terminal", "deploy profile wifi", "aim 1"],
-    "(onu-0/1/1)#": ["enable", "configure terminal", "onu 0/1/1"]
+    "(config)#": ["enable", CONFIGURE_TERMINAL],
+    "(deploy-profile-rule)#": ["enable", CONFIGURE_TERMINAL, "deploy profile rule"],
+    "(deploy-profile-line)#": ["enable", CONFIGURE_TERMINAL, "deploy profile line"],
+    "(deploy-profile-dba)#": ["enable", CONFIGURE_TERMINAL, "deploy profile dba"],
+    "(deploy-profile-vlan)#": ["enable", CONFIGURE_TERMINAL, "deploy profile vlan"],
+    "(deploy-profile-unique)#": ["enable", CONFIGURE_TERMINAL, "deploy profile unique"],
+    "(deploy-profile-alarm)#": ["enable", CONFIGURE_TERMINAL, "deploy profile alarm"],
+    "(deploy-profile-rule-0/1/1)#": ["enable", CONFIGURE_TERMINAL, "deploy profile rule", "aim 0/1/1"],
+    "(deploy-profile-line-1)#": ["enable", CONFIGURE_TERMINAL, "deploy profile line", "aim 1"],
+    "(deploy-profile-dba-1)#": ["enable", CONFIGURE_TERMINAL, "deploy profile dba", "aim 1"],
+    "(deploy-profile-vlan-1)#": ["enable", CONFIGURE_TERMINAL, "deploy profile vlan", "aim 1"],
+    "(deploy-profile-unique-0/1/1)#": ["enable", CONFIGURE_TERMINAL, "deploy profile unique", "aim 0/1/1"],
+    "(deploy-profile-alarm-1)#": ["enable", CONFIGURE_TERMINAL, "deploy profile alarm", "aim 1"],
+    "(config-if-gpon-0/1)#": ["enable", CONFIGURE_TERMINAL, "interface gpon 0/1"],
+    "(config-if-ethernet-1/1)#": ["enable", CONFIGURE_TERMINAL, "interface ethernet 1/1"],
+    "(config-if-pon-0/1)#": ["enable", CONFIGURE_TERMINAL, "interface pon 0/1"],
+    "(config-if-vlanInterface-1)#": ["enable", CONFIGURE_TERMINAL, "interface vlan-interface 1"],
+    "(deploy-profile-wifi-1)#": ["enable", CONFIGURE_TERMINAL, "deploy profile wifi", "aim 1"],
+    "(onu-0/1/1)#": ["enable", CONFIGURE_TERMINAL, "onu 0/1/1"]
 }
