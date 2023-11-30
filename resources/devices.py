@@ -36,9 +36,9 @@ DEVICE_TYPES = [
     "i41-211  121AC,2ETH+1POTS+WIFI (SFU+HGU)",
     "i41-421  142NG,4ETH+2POTS+WIFI (SFU+HGU)"]
 
-# USR_CMDs = ["version", "system", "running-config", "cpu-statistics", "cpu-utilization", "cpu-classification", "memory",
-#             "utilization", "statistics"]
-USR_CMDs = ["version", "system", "memory"]
+USR_CMDs = ["version", "system", "running-config", "cpu-statistics", "cpu-utilization", "cpu-classification", "memory",
+            "utilization", "statistics"]
+# USR_CMDs = ["version", "system", "memory"]
 
 CPEs = [{
     "index": "0/1/1",
