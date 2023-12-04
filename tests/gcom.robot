@@ -29,6 +29,11 @@ Show User Commands
     END
     Compare Files     ${file_name}
 
+Config Commands
+    ${file_name} =    build_mode_commands    ${IP}    ${HOSTNAME}    ${CFG_PROMPT}    Global configure (config) mode commands:
+    ${file_name} =    build_mode_commands    ${IP}    ${HOSTNAME}    ${CFG_PROMPT}    Global configure (config) mode commands:    show
+    Compare Files     ${file_name}
+
 
 *** Keywords ***
 Compare Files
@@ -37,12 +42,6 @@ Compare Files
     ${file_name2} =               Catenate        SEPARATOR=       cmds/gpon/    ${file_name}
     ${file2} =                    Get File        ${file_name2}
     Should Be Equal As Strings    ${file1}        ${file2}
-
-Config Commands
-    ${file_name} =    build_mode_commands    ${IP}    ${HOSTNAME}    ${CFG_PROMPT}    Global configure (config) mode commands:
-    ${file_name} =    build_mode_commands    ${IP}    ${HOSTNAME}    ${CFG_PROMPT}    Global configure (config) mode commands:    show
-    Compare Files     ${file_name}
-
 
 Logout with Sleep
     Telnet Logout
