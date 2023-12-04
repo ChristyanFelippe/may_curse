@@ -34,6 +34,10 @@ Config Commands
     ${file_name} =    build_mode_commands    ${IP}    ${HOSTNAME}    ${CFG_PROMPT}    Global configure (config) mode commands:    show
     Compare Files     ${file_name}
 
+# Profile DBA Commands
+#     ${file_name} =    build_mode_commands    ${IP}    ${HOSTNAME}    ${PROFILE_DBA1_PROMPT}    C_entry_dba (c_entry_dba) mode commands:
+#     Compare Files     ${file_name}
+
 
 *** Keywords ***
 Compare Files
