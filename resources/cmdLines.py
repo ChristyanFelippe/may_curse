@@ -264,6 +264,7 @@ def get_commands(tn, prompt, description):
     lines = get_mode_commands(description, lines)
     cmds = []
     for line in lines:
+        print(f"line is {line}")
         if line.startswith(chr(13)):
             continue
         if not len(line):
@@ -300,6 +301,7 @@ def build_mode_commands(ip, hostname, prompt, description, command=None):
     variables = get_variables(hostname)
     for v in variables.values():
         not_commands.append(v)
+        print(f"not commands {not_commands}")
 
     tn = open_telnet(ip, variables['USERNAME_PROMPT'], variables['PASSWORD_PROMPT'])
     enter_mode(tn, hostname, prompt)
@@ -307,6 +309,7 @@ def build_mode_commands(ip, hostname, prompt, description, command=None):
     report_file = (re.sub(r'\W+', '', description)).replace(" ", "") + ".txt"
     print("report file: " + report_file + "\n")
     for cmd in commands:
+        print(f"commands : {cmd}")
         if cmd.name == "show":
             continue
         if command is not None:
@@ -342,4 +345,4 @@ def enter_mode(tn, hostname, prompt):
 
 
 if __name__ == '__main__':
-    build_mode_commands("10.100.25.43", "G16", "G16(deploy-profile-alarm-1)#", "C_entry_alarm (c_entry_alarm) mode commands:")
+    build_mode_commands("10.100.25.43", "G16", "G16(deploy-profile-dba-1)#", "C_entry_dba (c_entry_dba) mode commands")
