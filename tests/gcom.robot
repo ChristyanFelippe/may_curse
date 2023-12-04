@@ -35,6 +35,7 @@ Test Teardown    Logout with Sleep
 #     Compare Files     ${file_name}
 
 Profile DBA Commands
+    OperatingSystem.Remove File     C_entry_dbac_entry_dbamodecommands.txt
     ${file_name} =    build_mode_commands    ${IP}    ${HOSTNAME}    ${PROFILE_DBA1_PROMPT}    C_entry_dba (c_entry_dba) mode commands:
     Compare Files     ${file_name}
 
