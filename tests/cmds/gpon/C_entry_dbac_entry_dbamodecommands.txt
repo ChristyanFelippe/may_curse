@@ -1,0 +1,15 @@
+active 
+aim 0 name c 
+aim 0 
+aim name c 
+exit 
+type 1 fix 256 method sr 
+type 1 fix 256 
+type 2 assured 0 method sr 
+type 2 assured 0 
+type 3 assured 0 max 256 method sr 
+type 3 assured 0 max 256 
+type 4 max 256 method sr 
+type 4 max 256 
+type 5 fix 256 assured 0 max 256 method sr 
+type 5 fix 256 assured 0 max 256 
