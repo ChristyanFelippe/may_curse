@@ -6,6 +6,7 @@ import telnetlib
 import re, itertools, sys
 
 from robot.api.deco import keyword
+from robot.api import logger
 
 from devices import *
 from variables import get_variables
@@ -213,12 +214,14 @@ def check_repeat(arg):
 def build_unique_commands(ip, hostname, prompt, command, report_file):
     variables = get_variables(hostname)
     for v in variables.values():
+        logger.info(f"Variable: {v}")
         not_commands.append(v)
 
     tn = open_telnet(ip, variables['USERNAME_PROMPT'], variables['PASSWORD_PROMPT'])
     enter_mode(tn, hostname, prompt)
 
     cmd = get_last_command(tn, command)
+    
     loop(tn, cmd, prompt, report_file)
     tn.close()
 
