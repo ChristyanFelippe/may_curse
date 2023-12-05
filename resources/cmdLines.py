@@ -301,13 +301,11 @@ def build_mode_commands(ip, hostname, prompt, description, command=None):
     variables = get_variables(hostname)
     for v in variables.values():
         not_commands.append(v)
-        print(f"not commands {not_commands}")
 
     tn = open_telnet(ip, variables['USERNAME_PROMPT'], variables['PASSWORD_PROMPT'])
     enter_mode(tn, hostname, prompt)
     commands = get_commands(tn, prompt, description)
     report_file = (re.sub(r'\W+', '', description)).replace(" ", "") + ".txt"
-    print("report file: " + report_file + "\n")
     for cmd in commands:
         print(f"commands : {cmd}")
         if cmd.name == "show":
