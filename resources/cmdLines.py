@@ -256,35 +256,6 @@ def get_mode_commands(description, lines):
                     return ret
     return ret
 
-
-def get_commands(tn, prompt, description):
-    text = look_tree(tn, prompt, "")
-    text = remove_control_chars(text)
-    lines = text.split('\n')
-    lines = get_mode_commands(description, lines)
-    cmds = []
-    for line in lines:
-        print(f"line is {line}")
-        if line.startswith(chr(13)):
-            continue
-        if not len(line):
-            continue
-        if line.startswith(chr(32)):
-            continue
-        if line.rstrip(chr(13)).endswith('^'):
-            continue
-        not_command_in_line = False
-        line_split = line.split()
-        for not_command in not_commands:
-            if not_command in line:
-                not_command_in_line = True
-        if not_command_in_line:
-            continue
-        arg = Command(line_split[0], ' '.join(line_split[1:]))
-        cmds.append(arg)
-    return cmds
-
-
 def clean_line(tn, prompt):
     tn.write("?".encode("ascii"))
     line = tn.read_until("\r\n".encode("ascii"))
@@ -327,9 +298,37 @@ def enter_mode(tn, hostname, prompt):
     prompt = prompt.replace(hostname, "")
     cmds = modes_and_cmds.get(prompt)
     for cmd in cmds:
+        print(f"cmds : {cmd}")
         tn.write((cmd + "\n").encode("ascii"))
-    tn.read_until(prompt.encode('ascii'))
+    output = tn.read_until(prompt.encode('ascii'))
+    print(f"output is {output}")
 
+def get_commands(tn, prompt, description):
+    text = look_tree(tn, prompt, "")
+    text = remove_control_chars(text)
+    lines = text.split('\n')
+    lines = get_mode_commands(description, lines)
+    cmds = []
+    for line in lines:
+        print(f"line is {line}")
+        if line.startswith(chr(13)):
+            continue
+        if not len(line):
+            continue
+        if line.startswith(chr(32)):
+            continue
+        if line.rstrip(chr(13)).endswith('^'):
+            continue
+        not_command_in_line = False
+        line_split = line.split()
+        for not_command in not_commands:
+            if not_command in line:
+                not_command_in_line = True
+        if not_command_in_line:
+            continue
+        arg = Command(line_split[0], ' '.join(line_split[1:]))
+        cmds.append(arg)
+    return cmds
 
 def get_aim(prompt):
     indexes = []
