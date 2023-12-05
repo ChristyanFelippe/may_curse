@@ -323,6 +323,13 @@ def build_mode_commands(ip, hostname, prompt, description, command=None):
     tn.close()
     return report_file
 
+def enter_mode(tn, hostname, prompt):
+    prompt = prompt.replace(hostname, "")
+    cmds = modes_and_cmds.get(prompt)
+    for cmd in cmds:
+        tn.write((cmd + "\n").encode("ascii"))
+    tn.read_until(prompt.encode('ascii'))
+
 
 def get_aim(prompt):
     indexes = []
@@ -332,15 +339,6 @@ def get_aim(prompt):
             indexes.append(i)
         i = i + 1
     return indexes
-
-
-def enter_mode(tn, hostname, prompt):
-    prompt = prompt.replace(hostname, "")
-    cmds = modes_and_cmds.get(prompt)
-    for cmd in cmds:
-        tn.write((cmd + "\n").encode("ascii"))
-    tn.read_until(prompt.encode('ascii'))
-
 
 if __name__ == '__main__':
     build_mode_commands("10.100.25.43", "G16", "G16(deploy-profile-dba-1)#", "C_entry_dba (c_entry_dba) mode commands")
